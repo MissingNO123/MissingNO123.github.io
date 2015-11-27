@@ -1,2 +1,2 @@
 # MissingNO123.github.io
-lel
+to be finished... soon
