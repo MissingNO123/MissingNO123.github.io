@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 10px;
+    font-family: 'JetBrains Mono', monospace;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.centered {
+    text-align: center;
+    margin-top: 20%;
+}
+
+.tinytext {
+    font-size: 0.3em;
+}
+
+a {
+    color: #974ddb;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+    color: #8400ff;
+}
+
+li {
+    margin: 10px 0;
+    list-style-position: inside;
+}
+
+/* Light and Dark Mode Support */
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #121212;
+        color: #e0e0e0;
+    }
+    a {
+        color: #c78bff;
+    }
+    a:hover {
+        color: #ad54ff;
+    }
+}
