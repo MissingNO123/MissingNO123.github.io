@@ -2,14 +2,14 @@
     "changelog": [
         {
             "date": "2024-12-15",
-            "version": "1.0.0",
+            "version": "0.0.0",
             "changes": [
                 "- Uploaded the world"
             ]
         },
         {
             "date": "2024-12-16",
-            "version": "1.1.0",
+            "version": "0.1.0",
             "changes": [
                 "- Added Collider toggle",
                 "- Made the Gaming Chair drivable",
@@ -21,7 +21,7 @@
         },
         {
             "date": "2024-12-16",
-            "version": "1.1.1",
+            "version": "0.1.1",
             "changes": [
                 "- Uploaded Android and iOS versions",
                 "- Added persistent plant",
@@ -31,7 +31,7 @@
         },
         {
             "date": "2024-12-16",
-            "version": "1.2.0",
+            "version": "0.2.0",
             "changes": [
                 "- Removed World Integrated Menu due to it stealing Tab key",
                 "- Added custom World Menu",
@@ -41,7 +41,7 @@
         },
         {
             "date": "2024-12-17",
-            "version": "1.3.0",
+            "version": "0.3.0",
             "changes": [
                 "- Added beanbag chair",
                 "- Added persistent respawn point",
@@ -52,7 +52,7 @@
         },
         {
             "date": "2024-12-17",
-            "version": "1.4.0",
+            "version": "0.4.0",
             "changes": [
                 "- Added second area",
                 "- Added some wall paintings to first area",
