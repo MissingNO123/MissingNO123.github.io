@@ -38,6 +38,17 @@
                 "- Rebaked Lighting",
                 "- Removed Herobrine"
             ]
+        },
+        {
+            "date": "2024-12-17",
+            "version": "1.3.0",
+            "changes": [
+                "- Added beanbag chair",
+                "- Added persistent respawn point",
+                "- Made triangular panels slightly shinier",
+                "- Rebaked Lighting",
+                "- Removed Herobrine"
+            ]
         }
     ]
 }
