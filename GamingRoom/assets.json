@@ -1,0 +1,39 @@
+{
+    "assets": [
+        {
+            "name": "AutoPosChair 1.1.1 (MIT License)",
+            "author": "Uzer Tekton",
+            "url": "https://github.com/UzerTekton/AutoPosChair"
+        },
+        {
+            "name": "AudioLink",
+            "author": "llealloo",
+            "url": "https://github.com/llealloo/audiolink"
+        },
+        {
+            "name": "VizVid",
+            "author": "Vistanz",
+            "url": "https://xtlcdn.github.io/VizVid/"
+        },
+        {
+            "name": "Custom Tonemap for Unity",
+            "author": "Silent",
+            "url": "https://github.com/s-ilent/custom-tonemap/"
+        },
+        {
+            "name": "Pretty Button Pack 1.4",
+            "author": "TsunaMoo",
+            "url": "https://booth.pm/en/items/3480091"
+        },
+        {
+            "name": "VRC Light Volumes",
+            "author": "RED-SIM",
+            "url": "https://github.com/REDSIM/VRCLightVolumes"
+        },
+        {
+            "name": "Persistent Plant Grower for VRChat",
+            "author": "Electro",
+            "url": "https://electrovrc.booth.pm/items/6632013"
+        }        
+    ]
+}
