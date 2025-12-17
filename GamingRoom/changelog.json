@@ -2,25 +2,39 @@
     "changelog": [
         {
             "date": "2024-12-15",
+            "version": "1.0.0",
             "changes": [
                 "- Uploaded the world"
             ]
         },
         {
             "date": "2024-12-16",
+            "version": "1.1.0",
             "changes": [
                 "- Added Collider toggle",
                 "- Made the Gaming Chair drivable",
-                "- Rebaked Lighting",
                 "- Added VRC Light Volumes",
+                "- Added AudioLink",
+                "- Rebaked Lighting",
                 "- Removed Herobrine"
             ]
         },
         {
             "date": "2024-12-16",
+            "version": "1.1.1",
             "changes": [
                 "- Uploaded Android and iOS versions",
                 "- Added persistent plant",
+                "- Rebaked Lighting",
+                "- Removed Herobrine"
+            ]
+        },
+        {
+            "date": "2024-12-16",
+            "version": "1.2.0",
+            "changes": [
+                "- Removed World Integrated Menu due to it stealing Tab key",
+                "- Added custom World Menu",
                 "- Rebaked Lighting",
                 "- Removed Herobrine"
             ]
