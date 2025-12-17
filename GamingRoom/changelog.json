@@ -49,6 +49,19 @@
                 "- Rebaked Lighting",
                 "- Removed Herobrine"
             ]
+        },
+        {
+            "date": "2024-12-17",
+            "version": "1.4.0",
+            "changes": [
+                "- Added second area",
+                "- Added some wall paintings to first area",
+                "- Video player audio now follows which area you are in",
+                "- Added audio source spatialization",
+                "- Removed audio source spatialization",
+                "- Rebaked Lighting",
+                "- Removed Herobrine"
+            ]
         }
     ]
 }
