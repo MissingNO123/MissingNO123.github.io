@@ -62,6 +62,24 @@
                 "- Rebaked Lighting",
                 "- Removed Herobrine"
             ]
+        },
+        {
+            "date": "2024-12-17",
+            "version": "0.4.1",
+            "changes": [
+                "Additions:",
+                "- Add QVPen",
+                "- Add more props",
+                "- Implemented whitelist",
+                "- Add Post Processing Toggle",
+                "Fixes:",
+                "- Fix window in second area",
+                "- Fix reflections in second area",
+                "- Fix videoplayer audio triggering on all players instead of localplayer",
+                "- Fix theme not applied to videoplayer in second area",
+                "- Rebaked Lighting",
+                "- Removed Herobrine"
+            ]
         }
     ]
 }
