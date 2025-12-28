@@ -81,6 +81,25 @@
                 "- Rebaked Lighting",
                 "- Removed Herobrine"
             ]
+        },
+        {
+            "date": "2024-12-27",
+            "version": "0.5.0",
+            "changes": [
+                "Additions:",
+                "- Gaming chair can be driven with VR controllers or game controllers",
+                "- Added new mousepad",
+                "- Replaced buttons with ones you can touch",
+                "- Buttons now save their state persistently",
+
+                "Fixes:",
+                "- Fixed ceiling collider to prevent people breaking out of the room",
+                "- Reduced interact range of all pickups",
+                "- Fixed collider button was global",
+                "- Rebaked Lighting",
+                "- Removed Herobrine",
+                "- General system stability improvements to enhance the user's experience."
+            ]
         }
     ]
 }
