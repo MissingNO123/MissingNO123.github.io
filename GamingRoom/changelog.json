@@ -1,14 +1,14 @@
 {
     "changelog": [
         {
-            "date": "2024-12-15",
+            "date": "2025-12-15",
             "version": "0.0.0",
             "changes": [
                 "- Uploaded the world"
             ]
         },
         {
-            "date": "2024-12-16",
+            "date": "2025-12-16",
             "version": "0.1.0",
             "changes": [
                 "- Added Collider toggle",
@@ -20,7 +20,7 @@
             ]
         },
         {
-            "date": "2024-12-16",
+            "date": "2025-12-16",
             "version": "0.1.1",
             "changes": [
                 "- Uploaded Android and iOS versions",
@@ -30,7 +30,7 @@
             ]
         },
         {
-            "date": "2024-12-16",
+            "date": "2025-12-16",
             "version": "0.2.0",
             "changes": [
                 "- Removed World Integrated Menu due to it stealing Tab key",
@@ -40,7 +40,7 @@
             ]
         },
         {
-            "date": "2024-12-17",
+            "date": "2025-12-17",
             "version": "0.3.0",
             "changes": [
                 "- Added beanbag chair",
@@ -51,7 +51,7 @@
             ]
         },
         {
-            "date": "2024-12-17",
+            "date": "2025-12-17",
             "version": "0.4.0",
             "changes": [
                 "- Added second area",
@@ -64,7 +64,7 @@
             ]
         },
         {
-            "date": "2024-12-17",
+            "date": "2025-12-17",
             "version": "0.4.1",
             "changes": [
                 "Additions:",
@@ -83,7 +83,7 @@
             ]
         },
         {
-            "date": "2024-12-27",
+            "date": "2025-12-27",
             "version": "0.5.0",
             "changes": [
                 "Additions:",
@@ -96,6 +96,22 @@
                 "- Fixed ceiling collider to prevent people breaking out of the room",
                 "- Reduced interact range of all pickups",
                 "- Fixed collider button was global",
+                "- Rebaked Lighting",
+                "- Removed Herobrine",
+                "- General system stability improvements to enhance the user's experience."
+            ]
+        },
+        {
+            "date": "2026-01-10",
+            "version": "0.6.0",
+            "changes": [
+                "Additions:",
+                "- Added record player and vinyls",
+                "- Added Trombone",
+                
+                "Fixes:",
+                "- Fix coffee table collider",
+                "- Fix changelog saying 2024 instead of 2025",
                 "- Rebaked Lighting",
                 "- Removed Herobrine",
                 "- General system stability improvements to enhance the user's experience."
