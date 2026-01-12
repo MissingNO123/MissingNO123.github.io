@@ -108,10 +108,30 @@
                 "Additions:",
                 "- Added record player and vinyls",
                 "- Added Trombone",
+                "- Added dashdance audio",
                 
                 "Fixes:",
                 "- Fix coffee table collider",
                 "- Fix changelog saying 2024 instead of 2025",
+                "- Rebaked Lighting",
+                "- Removed Herobrine",
+                "- General system stability improvements to enhance the user's experience."
+            ]
+        },
+        {
+            "date": "2026-01-11",
+            "version": "0.6.1",
+            "changes": [
+                "Additions:",
+                "- Added more vinyls:",
+                "  - Constant Companions - Jamie Paige",
+                "  - ULTRAKILL: INFINITE HYPERDEATH - Heaven Pierce Her",
+                "  - ULTRAKILL: IMPERFECT HATRED - Heaven Pierce Her",
+                "  - Chimera Dragons - Camellia",
+                
+                "Fixes:",
+                "- Removed Trombone",
+                "- Removed dashdance audio",
                 "- Rebaked Lighting",
                 "- Removed Herobrine",
                 "- General system stability improvements to enhance the user's experience."
