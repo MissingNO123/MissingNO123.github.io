@@ -123,6 +123,7 @@
             "version": "0.6.1",
             "changes": [
                 "Additions:",
+                "- Added AudioLink to speakers",
                 "- Added more vinyls:",
                 "  - Constant Companions - Jamie Paige",
                 "  - ULTRAKILL: INFINITE HYPERDEATH - Heaven Pierce Her",
@@ -132,6 +133,7 @@
                 "Fixes:",
                 "- Removed Trombone",
                 "- Removed dashdance audio",
+                "- Fixed(?) audio on buttons",
                 "- Rebaked Lighting",
                 "- Removed Herobrine",
                 "- General system stability improvements to enhance the user's experience."
