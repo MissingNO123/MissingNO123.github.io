@@ -4,18 +4,18 @@
             "date": "2025-12-15",
             "version": "0.0.0",
             "changes": [
-                "- Uploaded the world"
+                "+ Uploaded the world"
             ]
         },
         {
             "date": "2025-12-16",
             "version": "0.1.0",
             "changes": [
-                "- Added Collider toggle",
-                "- Made the Gaming Chair drivable",
-                "- Added VRC Light Volumes",
-                "- Added AudioLink",
-                "- Rebaked Lighting",
+                "+ Added Collider toggle",
+                "> Made the Gaming Chair drivable",
+                "+ Added VRC Light Volumes",
+                "+ Added AudioLink",
+                "> Rebaked Lighting",
                 "- Removed Herobrine"
             ]
         },
@@ -23,9 +23,9 @@
             "date": "2025-12-16",
             "version": "0.1.1",
             "changes": [
-                "- Uploaded Android and iOS versions",
-                "- Added persistent plant",
-                "- Rebaked Lighting",
+                "> Uploaded Android and iOS versions",
+                "+ Added persistent plant",
+                "> Rebaked Lighting",
                 "- Removed Herobrine"
             ]
         },
@@ -34,8 +34,8 @@
             "version": "0.2.0",
             "changes": [
                 "- Removed World Integrated Menu due to it stealing Tab key",
-                "- Added custom World Menu",
-                "- Rebaked Lighting",
+                "+ Added custom World Menu",
+                "> Rebaked Lighting",
                 "- Removed Herobrine"
             ]
         },
@@ -43,10 +43,10 @@
             "date": "2025-12-17",
             "version": "0.3.0",
             "changes": [
-                "- Added beanbag chair",
-                "- Added persistent respawn point",
-                "- Made triangular panels slightly shinier",
-                "- Rebaked Lighting",
+                "+ Added beanbag chair",
+                "+ Added persistent respawn point",
+                "> Made triangular panels slightly shinier",
+                "> Rebaked Lighting",
                 "- Removed Herobrine"
             ]
         },
@@ -54,12 +54,12 @@
             "date": "2025-12-17",
             "version": "0.4.0",
             "changes": [
-                "- Added second area",
-                "- Added some wall paintings to first area",
-                "- Video player audio now follows which area you are in",
-                "- Added audio source spatialization",
+                "+ Added second area",
+                "+ Added some wall paintings to first area",
+                "+ Added audio source spatialization",
                 "- Removed audio source spatialization",
-                "- Rebaked Lighting",
+                "> Video player audio now follows which area you are in",
+                "> Rebaked Lighting",
                 "- Removed Herobrine"
             ]
         },
@@ -68,17 +68,18 @@
             "version": "0.4.1",
             "changes": [
                 "Additions:",
-                "- Add QVPen",
-                "- Add more props",
-                "- Implemented whitelist",
-                "- Add Post Processing Toggle",
+                "+ Add QVPen",
+                "+ Add more props",
+                "+ Implemented whitelist",
+                "+ Add Post Processing Toggle",
+                
                 "Fixes:",
-                "- Fix window in second area",
-                "- Fix reflections in second area",
-                "- Fix videoplayer audio triggering on all players instead of localplayer",
-                "- Fix theme not applied to videoplayer in second area",
-                "- Rebaked Occlusion",
-                "- Rebaked Lighting",
+                "> Fix window in second area",
+                "> Fix reflections in second area",
+                "> Fix videoplayer audio triggering on all players instead of localplayer",
+                "> Fix theme not applied to videoplayer in second area",
+                "> Rebaked Occlusion",
+                "> Rebaked Lighting",
                 "- Removed Herobrine"
             ]
         },
@@ -87,18 +88,18 @@
             "version": "0.5.0",
             "changes": [
                 "Additions:",
-                "- Gaming chair can be driven with VR controllers or game controllers",
-                "- Added new mousepad",
-                "- Replaced buttons with ones you can touch",
-                "- Buttons now save their state persistently",
+                "> Gaming chair can be driven with VR controllers or game controllers",
+                "+ Added new mousepad",
+                "+ Replaced buttons with ones you can touch",
+                "> Buttons now save their state persistently",
 
                 "Fixes:",
-                "- Fixed ceiling collider to prevent people breaking out of the room",
-                "- Reduced interact range of all pickups",
-                "- Fixed collider button was global",
-                "- Rebaked Lighting",
+                "> Fixed ceiling collider to prevent people breaking out of the room",
+                "> Reduced interact range of all pickups",
+                "> Fixed collider button was global",
+                "> Rebaked Lighting",
                 "- Removed Herobrine",
-                "- General system stability improvements to enhance the user's experience."
+                "> General system stability improvements to enhance the user's experience."
             ]
         },
         {
@@ -106,16 +107,16 @@
             "version": "0.6.0",
             "changes": [
                 "Additions:",
-                "- Added record player and vinyls",
-                "- Added Trombone",
-                "- Added dashdance audio",
+                "+ Added record player and vinyls",
+                "+ Added Trombone",
+                "+ Added dashdance audio",
                 
                 "Fixes:",
-                "- Fix coffee table collider",
-                "- Fix changelog saying 2024 instead of 2025",
-                "- Rebaked Lighting",
+                "> Fix coffee table collider",
+                "> Fix changelog saying 2024 instead of 2025",
+                "> Rebaked Lighting",
                 "- Removed Herobrine",
-                "- General system stability improvements to enhance the user's experience."
+                "> General system stability improvements to enhance the user's experience."
             ]
         },
         {
@@ -123,20 +124,38 @@
             "version": "0.6.1",
             "changes": [
                 "Additions:",
-                "- Added AudioLink to speakers",
-                "- Added more vinyls:",
-                "  - Constant Companions - Jamie Paige",
-                "  - ULTRAKILL: INFINITE HYPERDEATH - Heaven Pierce Her",
-                "  - ULTRAKILL: IMPERFECT HATRED - Heaven Pierce Her",
-                "  - Chimera Dragons - Camellia",
+                "+ Added AudioLink to speakers",
+                "+ Added more vinyls:",
+                "  + Constant Companions - Jamie Paige",
+                "  + ULTRAKILL: INFINITE HYPERDEATH - Heaven Pierce Her",
+                "  + ULTRAKILL: IMPERFECT HATRED - Heaven Pierce Her",
+                "  + Chimera Dragons - Camellia",
                 
                 "Fixes:",
                 "- Removed Trombone",
                 "- Removed dashdance audio",
-                "- Fixed(?) audio on buttons",
-                "- Rebaked Lighting",
+                "> Fixed(?) audio on buttons",
+                "> Rebaked Lighting",
                 "- Removed Herobrine",
-                "- General system stability improvements to enhance the user's experience."
+                "> General system stability improvements to enhance the user's experience."
+            ]
+        },
+        {
+            "date": "2026-01-15",
+            "version": "0.6.2",
+            "changes": [
+                "Additions:",
+                "+ Added more vinyls:",
+                "  + Super Hexagon - Chipzel",
+                "  + Tron: Legacy OST - Daft Punk",
+                "  + Tron: Ares OST - Nine Inch Nails",
+
+                "Fixes:",
+                "> Fixed world respawn point being too high",
+                "> Fixed some light switches glowing too bright",
+                "> Rebaked Lighting",
+                "- Removed Herobrine",
+                "> General system stability improvements to enhance the user's experience."
             ]
         }
     ]
