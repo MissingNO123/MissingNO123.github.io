@@ -157,6 +157,28 @@
                 "- Removed Herobrine",
                 "> General system stability improvements to enhance the user's experience."
             ]
+        },
+        {
+            "date": "2026-02-08",
+            "version": "0.7.0",
+            "changes": [
+                "Additions:",
+                "+ Added reactive VRCLV Point Lights to switches",
+
+                "Fixes:",
+                "- Removed Trombone FOR REAL this time",
+                "- Removed EditorOnly objects that were breaking NetIDs",
+                "> Made the TV louder",
+                "> Fixed unintended auto-hold behaviour on pickups (thanks VRC)",
+                "> Fix Collider toggle disabling some shelves instead of shelf colliders",
+                "> Make colliders still affect pickups when disabled",
+                "> Disable some objects when not near them to reduce CPU load",
+                "> Performance pass to attempt to reduce CPU and GPU frametimes",
+                "> Rebaked Occlusion",
+                "> Rebaked Lighting",
+                "- Removed Herobrine",
+                "> General system stability improvements to enhance the user's experience."
+            ]
         }
     ]
 }
